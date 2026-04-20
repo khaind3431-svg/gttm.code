@@ -1,0 +1,20 @@
+# Core
+ultralytics
+torch
+opencv-python
+numpy
+
+# OCR (Đọc ký tự biển số)
+easyocr
+
+# Utilities
+Pillow
+matplotlib
+tqdm==4.66.4
+
+# Nếu bạn dùng Jupyter Notebook để huấn luyện YOLO
+ipykernel
+notebook
+
+# Nếu bạn có giao diện (tuỳ chọn, có thể thêm sau)
+streamlit
